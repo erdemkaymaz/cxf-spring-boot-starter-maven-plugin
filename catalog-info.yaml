@@ -1,0 +1,10 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: cxf-spring-boot-starter-maven-plugin
+  annotations:
+    github.com/project-slug: erdemkaymaz/cxf-spring-boot-starter-maven-plugin
+spec:
+  type: other
+  lifecycle: unknown
